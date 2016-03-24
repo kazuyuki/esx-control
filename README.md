@@ -35,5 +35,5 @@ On the host, open the console then run *vmware-cmd* to
 [1]: https://developercenter.vmware.com/web/dp/tool/vsphere_cli/6.0
 
 | Date			| Issued by			| Description	|
-|:-				|:-					|:-				|
+|:---			|:---				|:---			|
 | 2016.03.24	| miyamoto KAZuyuki	|1st issue		|
